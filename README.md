@@ -57,10 +57,10 @@ Un reporte financiero es un documento que presenta el estado financiero de una e
 La tercerización financiera implica delegar la gestión de ciertas operaciones financieras, como la administración de la cartera de letras y facturas, a una entidad externa especializada. Esto permite a las empresas centrarse en sus actividades principales mientras optimizan su gestión financiera.
 
 ## Marco Legal y Teórico
-**Marco Legal:**
+- ***Marco Legal***:
 Para el desarrollo y operación de una aplicación que gestione el descuento de facturas y letras en Perú, es fundamental considerar el marco normativo vigente que regula las transacciones financieras y el uso de medios digitales. En particular, se deben tomar en cuenta las disposiciones del Código de Comercio Peruano, que establece los lineamientos generales para la emisión, negociación y descuento de letras de cambio y facturas. Además, se deben cumplir con las regulaciones de la Superintendencia de Banca, Seguros y AFP (SBS), que dicta las normas para la gestión del riesgo financiero y la transparencia de las tasas de interés, incluyendo la Tasa de Coste Efectivo Anual (TCEA). Asimismo, la Ley de Protección de Datos Personales (Ley N° 29733) es crucial para garantizar la seguridad y confidencialidad de la información ingresada en la aplicación.
 
-**Marco Teórico:**
+- ***Marco Teórico***:
 Desde un punto de vista teórico, el proyecto se basa en conceptos fundamentales de finanzas y contabilidad, como el descuento de documentos comerciales y el cálculo de tasas de interés nominales y efectivas. La TCEA, un indicador clave en este contexto, debe calcularse siguiendo las metodologías establecidas por la SBS, que detalla los procedimientos para incluir todos los costos y comisiones asociados con una operación de crédito. Adicionalmente, se deberán aplicar principios de diseño de software que aseguren la usabilidad y funcionalidad de la aplicación, siguiendo metodologías ágiles que permitan una iteración constante y adaptación a las necesidades del usuario final.
 
 ### Bibliografia
