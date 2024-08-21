@@ -28,7 +28,7 @@ El objetivo de este proyecto es desarrollar una aplicación web que permita a la
   - [Marco Legal y Teórico](#marco_legal)
 
 ## Objetivo del Estudiante
-
+El objetivo al desarrollar este proyecto es aplicar principios fundamentales de ingeniería, ciencia y matemática para identificar, formular y resolver los problemas complejos asociados con la gestión de carteras de facturas y letras en una aplicación web. Durante el proceso, se deberá comunicar las ideas de manera efectiva a diferentes audiencias, asumir responsabilidades éticas y profesionales, y evaluar el impacto de la solución en diversos contextos. Además, se espera que todos los miembros del grupo trabajen eficazmente en equipo, demostrando liderazgo y colaborando para cumplir con los objetivos establecidos. Por último, el proyecto servirá como una oportunidad para adquirir y aplicar nuevos conocimientos mediante estrategias de aprendizaje continuo, asegurando que las decisiones tomadas estén fundamentadas en la interpretación adecuada de los datos y el juicio de ingeniería de software y sistemas.
 
 ## Definiciones generales y conceptos básicos
 
@@ -57,3 +57,13 @@ Un reporte financiero es un documento que presenta el estado financiero de una e
 La tercerización financiera implica delegar la gestión de ciertas operaciones financieras, como la administración de la cartera de letras y facturas, a una entidad externa especializada. Esto permite a las empresas centrarse en sus actividades principales mientras optimizan su gestión financiera.
 
 ## Marco Legal y Teórico
+**Marco Legal:**
+Para el desarrollo y operación de una aplicación que gestione el descuento de facturas y letras en Perú, es fundamental considerar el marco normativo vigente que regula las transacciones financieras y el uso de medios digitales. En particular, se deben tomar en cuenta las disposiciones del Código de Comercio Peruano, que establece los lineamientos generales para la emisión, negociación y descuento de letras de cambio y facturas. Además, se deben cumplir con las regulaciones de la Superintendencia de Banca, Seguros y AFP (SBS), que dicta las normas para la gestión del riesgo financiero y la transparencia de las tasas de interés, incluyendo la Tasa de Coste Efectivo Anual (TCEA). Asimismo, la Ley de Protección de Datos Personales (Ley N° 29733) es crucial para garantizar la seguridad y confidencialidad de la información ingresada en la aplicación.
+
+**Marco Teórico:**
+Desde un punto de vista teórico, el proyecto se basa en conceptos fundamentales de finanzas y contabilidad, como el descuento de documentos comerciales y el cálculo de tasas de interés nominales y efectivas. La TCEA, un indicador clave en este contexto, debe calcularse siguiendo las metodologías establecidas por la SBS, que detalla los procedimientos para incluir todos los costos y comisiones asociados con una operación de crédito. Adicionalmente, se deberán aplicar principios de diseño de software que aseguren la usabilidad y funcionalidad de la aplicación, siguiendo metodologías ágiles que permitan una iteración constante y adaptación a las necesidades del usuario final.
+
+### Bibliografia
+https://www.defensoria.gob.pe/wp-content/uploads/2019/11/Manual-de-Protecci%C3%B3n-de-Datos-Personales.pdf
+
+https://www.sbs.gob.pe/
