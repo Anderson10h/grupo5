@@ -13,4 +13,24 @@ Vásquez Neyra, José Ismael
 -
 -
 
+## Introducción
+
+
 ## Índice
+- [TF\_Finanzas](#tf_finanzas)
+      - [Sección:](#sección)
+      - [Profesor:](#profesor)
+      - [Integrantes:](#integrantes)
+  - [Introducción](#introduccion)
+  - [Índice](#índice)
+  - [Objetivo del Estudiante](#objetivo)
+  - [Definiciones generales y conceptos básicos](#definiciones)
+  - [Marco Legal y Teórico](#marco_legal)
+
+## Objetivo del Estudiante
+
+
+## Definiciones generales y conceptos básicos
+
+
+## Marco Legal y Teórico
