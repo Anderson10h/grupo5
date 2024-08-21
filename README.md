@@ -14,13 +14,7 @@ Vásquez Neyra, José Ismael
 -
 
 ## Introducción
-El objetivo de este proyecto es desarrollar una aplicación web que permita a las empresas gestionar
-su cartera de descuento de facturas y letras en Soles y calcular la Tasa de Coste Efectivo Anual (TCEA)
-en una fecha determinada. Esta herramienta facilitará la administración de estas carteras, proporcionando
-la capacidad de generar reportes detallados, incluyendo la TCEA, lo que contribuirá a una gestión financiera
-más eficiente. La aplicación está diseñada para ofrecer una solución integral, desde la creación de perfiles
-seguros hasta la generación de reportes, enfocándose en la necesidad de las empresas de tercerizar la gestión
-de su cartera de letras y facturas, optimizando así sus procesos financieros.
+El objetivo de este proyecto es desarrollar una aplicación web que permita a las empresas gestionar su cartera de descuento de facturas y letras en Soles y calcular la Tasa de Coste Efectivo Anual (TCEA) en una fecha determinada. Esta herramienta facilitará la administración de estas carteras, proporcionando la capacidad de generar reportes detallados, incluyendo la TCEA, lo que contribuirá a una gestión financiera más eficiente. La gestión adecuada de la cartera de letras y facturas es crucial para la salud financiera de una empresa, especialmente en el contexto de las PyMEs, que a menudo enfrentan desafíos de liquidez. Esta aplicación no solo permitirá a las empresas automatizar y simplificar el proceso de descuento de facturas/letras, sino que también les proporcionará herramientas clave para tomar decisiones informadas sobre su financiamiento. Al implementar la TCEA, las empresas podrán evaluar el costo real de sus operaciones de financiamiento, lo que es fundamental para mantener la competitividad en un entorno económico fluctuante.
 
 ## Índice
 - [TF\_Finanzas](#tf_finanzas)
