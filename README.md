@@ -56,16 +56,14 @@ Un reporte financiero es un documento que presenta el estado financiero de una e
 - ***Tercerización Financiera***:
 La tercerización financiera implica delegar la gestión de ciertas operaciones financieras, como la administración de la cartera de letras y facturas, a una entidad externa especializada. Esto permite a las empresas centrarse en sus actividades principales mientras optimizan su gestión financiera.
 
--- ***Valor Actual Neto (VAN)***:
+- ***Valor Actual Neto (VAN)***:
 Herramienta que compara el valor presente de los flujos de efectivo futuros con la inversión inicial, ayudando a determinar la rentabilidad de un proyecto.
 
--- ***Valor Nominal***:
+- ***Valor Nominal***:
 Es el valor asignado oficialmente a un activo o instrumento financiero, sin tener en cuenta factores externos como la inflación, el mercado o las fluctuaciones del precio.
--- ***Vencimiento de la letra de cambio***:
+
+- ***Vencimiento de la letra de cambio***:
 Es la fecha en la que el importe de la letra debe ser pagado por el deudor (o librado) al tenedor o beneficiario. En otras palabras, es el día en que la letra de cambio se hace exigible y el deudor está legalmente obligado a cumplir con el pago. 
-
--- ***Formula para Tasas Nominales***:
-
 
 ## Marco Legal y Teórico
 - ***Marco Legal***:
@@ -74,78 +72,69 @@ Para el desarrollo y operación de una aplicación que gestione el descuento de 
 - ***Marco Teórico***:
 Desde un punto de vista teórico, el proyecto se basa en conceptos fundamentales de finanzas y contabilidad, como el descuento de documentos comerciales y el cálculo de tasas de interés nominales y efectivas. La TCEA, un indicador clave en este contexto, debe calcularse siguiendo las metodologías establecidas por la SBS, que detalla los procedimientos para incluir todos los costos y comisiones asociados con una operación de crédito. Adicionalmente, se deberán aplicar principios de diseño de software que aseguren la usabilidad y funcionalidad de la aplicación, siguiendo metodologías ágiles que permitan una iteración constante y adaptación a las necesidades del usuario final.
 
-c) Marco teórico o conceptual. 
+c) ***Marco teórico o conceptua***l. 
 
-Para el cálculo de la Tasa Efectiva del Periodo
+**Para el cálculo de la Tasa Efectiva del Periodo***
+
 Donde:
+
 TEP2: Tasa de interés efectiva que se desea convertir
+
 TEP1: Tasa de interés efectiva del periodo
+
 N2: Tiempo que desea convertir la tasa efectiva
+
 N1: Tiempo de la tasa efectiva en el periodo
+
 
 TEP2 =(1+TEP1)N2N1-1
 
-Para el calcular el Flujo del Bonista
+
+**Para el calcular el Flujo del Bonista***
+
 Donde:
+
 VC: Valor Comercial
+
 %Flot: Porcentaje de flotación del bono
+
 %Cav: Porcentaje del CAVALI del bono
+
 
 Flujo =VC  (1 + %Flot + %Cav)
 
 
-Para calcular el Flujo del Emisor
+
+**Para calcular el Flujo del Emisor***
+
 Donde:
+
 VC: Valor Comercial
+
 %Est: Porcentaje de estructuración del bono
+
 %Col: Porcentaje de colocación del bono
+
 %Flot: Porcentaje de flotación del bono
+
 %Cav: Porcentaje de CAVALI del bono
+
 
 Flujo = VC  (1- %Est - %Col - %Flot - %Cav)
 
-Para calcular el Cupón o Interés
+
+**Para calcular el Cupón o Interés***
+
 Donde:
+
 I: Interés o Cupón
+
 VN: Valor Nominal
+
 TEP: Tasa Efectiva del Periodo
 
 I=VN  TEP
 
-
-Para calcular la cuota en el método Alemán
-	Donde:
-R: Cuota
-I: Interés o Cupón
-A: Amortización
-
-R = I+A
-
-Para calcular la Amortización en el método Alemán
-Donde:
-A: Amortización
-R: Cuota
-I: Interés o Cupón
-
-A = R - I
-
-Para calcular la cuota de vencimiento
-Donde:
-C: Cuota al vencimiento
-VN: Valor Nominal
-%Pri: Porcentaje de prima a la redención
-TEP: Tasa Efectiva del Periodo
-
-C=VN (%Pri + tep + 1)
-
-Para calcular el Precio Actual del Bono
-Donde:
-P: Precio actual del bono
-FC: Flujo de caja
-r: Tasa de interés del mercado
-t: Número de periodos
-
-P = t=1nFCt(1+r)t
 
 Para calcular la Tasa Interna de Retorno
 Donde:
@@ -156,20 +145,31 @@ t: Número de periodos
 
 -I + t=1nDCt(1+TIR)t=0
 
-Para calcular la Tasa de Rendimiento Efectiva Anual
+**Para calcular la Tasa de Rendimiento Efectiva Anual***
+
 Donde:
+
 TREA: Tasa de Rendimiento Efectiva Anual
+
 VE: Valor Entregado
+
 VR: Valor Recibido
+
 N: Número de días a trasladar
+
 
 TREA = (VEVR)360N-1
 
-Para calcular la Tasa de Coste Efectiva Anual
+**Para calcular la Tasa de Coste Efectiva Anual***
+
 Donde:
+
 TCEA: Tasa de Coste Efectiva Anual
+
 VE: Valor Entregado
+
 VR: Valor Recibido
+
 N: Número de días a trasladar
 
 TCEA = (VE VR)360N-1
