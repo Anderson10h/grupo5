@@ -136,11 +136,16 @@ TEP: Tasa Efectiva del Periodo
 I=VN  TEP
 
 
-Para calcular la Tasa Interna de Retorno
+**Para calcular la Tasa Interna de Retorno***
+
 Donde:
+
 I:Inversión
+
 FC: Flujo de caja
+
 TIR: Tasa Interna de Retorno
+
 t: Número de periodos
 
 -I + t=1nDCt(1+TIR)t=0
